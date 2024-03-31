@@ -4,6 +4,8 @@
 
 ### For the project video, please check the "Project Video" file. Thank you.
 
+<br>
+
 ## Code Explanation:
 
 1. **Importing Libraries**: The code starts by importing the necessary libraries: `cv2` for OpenCV, `face_recognition` for face recognition tasks, and `numpy` for numerical operations.
